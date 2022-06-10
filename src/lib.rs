@@ -1,5 +1,5 @@
-mod lcg;
-mod seed;
+pub mod lcg;
+pub mod seed;
 
 #[cfg(test)]
 mod tests {
