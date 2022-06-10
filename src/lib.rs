@@ -1,8 +1,6 @@
 mod lcg;
 mod seed;
 
-use crate::lcg::LCGParams;
-
 #[cfg(test)]
 mod tests {
 

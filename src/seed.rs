@@ -1,5 +1,4 @@
 use crate::lcg::LCGParams;
-use core::ops::{Add, Sub};
 
 pub struct Seed {
 	params: LCGParams,
